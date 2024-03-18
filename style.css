@@ -1,0 +1,30 @@
+#bid-container{
+    border: 1em solid orange;
+    padding: 2em;
+}
+
+a:link {
+    color: orange;
+}
+a:visited{
+    color:gray;
+}
+
+button{
+    width: 7em;
+    height: 3em;
+}
+
+#btn_submit {
+    background-color: orange;
+    color: white;
+}
+
+#btn_reset {
+    background-color: gray;
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
